@@ -46,7 +46,7 @@ h1 {
 }
 
 ul.no-bullets {
-  padding: 0; /* Remove padding */
-  margin: 0; /* Remove margins */
   list-style-image: url('../img/profit.svg');
+  display: inline-block;
+  text-align:left;
 }
